@@ -34,7 +34,7 @@ AseFlixel is a robust Aseprite Animation Code Exporter tailored for HaxeFlixel. 
 
 Before using AseFlixel, please ensure you have the following prerequisites installed on your system:
 
-1. [Aseprite](https://www.aseprite.org/): AseFlixel is an Aseprite script, so you need to have Aseprite installed to run the script and export animations to HaxeFlixel.
+1. [Aseprite](https://www.aseprite.org/): AseFlixel is an Aseprite script, so you need to have Aseprite installed to run the script and export animations to HaxeFlixel. Aseprite 1.3 beta or newer is required.
 
 2. [HaxeFlixel](https://haxeflixel.com/): You need to have HaxeFlixel installed in your development environment in order to use the generated animation code.
 
